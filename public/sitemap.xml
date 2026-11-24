@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+    <loc>http://localhost/Azure_group/public</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/about</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/about/our-value</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/portfolio</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/leadership</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/career</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/blog</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/cybersecurity</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/portfolio/azure-construction</loc>
+            </url>
+    <url>
+    <loc>http://localhost/Azure_group/public/blog/welcome-to-azure-group</loc>
+            </url>
+</urlset>
